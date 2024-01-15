@@ -50,8 +50,7 @@ project_root_dir
 |
 |
 |
-|__ README.md
-|
-|
 |__ run.py
+|
+|__ __ README.md
 ```
